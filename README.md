@@ -1,4 +1,21 @@
-- 👋 Hi, I’m Manish Rana
+### Hi there 👋 I'm [Your Name]!
+
+- 🌱 I’m currently learning data science and working towards certification.
+- 💻 Currently exploring projects with **Python**, **Pandas**, and **NumPy**.
+- 📚 Always learning and diving deeper into **Machine Learning** and **AI**.
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_USERNAME) 
+
+
+
+
+
+
+- 👋 Hi, I’m Manish Rana!
 - 🔍 Passionate about uncovering insights and telling stories with data. I have experience in data cleaning, data visualization, and statistical analysis, using Python, and SQL.
 - 📊 Skilled in working with tools like Pandas, NumPy, Matplotlib, Seaborn, and Tableau.
 - 📈 Currently pursuing a certification course in Data Science to enhance my expertise in machine learning, time series analysis, and big data.
