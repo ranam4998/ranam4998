@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Your Name]!
+### Hi there 👋 I'm Manish!
 
 - 🌱 I’m currently learning data science and working towards certification.
 - 💻 Currently exploring projects with **Python**, **Pandas**, and **NumPy**.
